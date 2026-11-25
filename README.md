@@ -1,0 +1,1 @@
+# SIC26-Analisis-de-factores-de-concurrencia-en-poblaciones-con-mayor-prevalencia-de-diabetes
