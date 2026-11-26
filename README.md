@@ -8,12 +8,12 @@
 ---
 
 ## 👥 Integrantes del Grupo
--Daniela Fernández
--David Díaz
--Pablo Macías
--Roger Zambrano
--Leonel Coronel
 
+- Daniela Fernández
+- David Díaz
+- Pablo Macías
+- Roger Zambrano
+- Leonel Coronel
 
 ---
 
